@@ -1,0 +1,26 @@
+{   
+    "app_name": "NekoType",
+    "app_description": "Secure messenger created by cats",
+    "app_description_long": "Secure messenger created by cats, but I didn't wanna write more so someone else will do it for me :3",
+    "system":{
+        "yes":"Yes",
+        "no":"No",
+        "cancel":"Cancel",
+        "about":"About",
+        "settings":"Settings",
+        "privacy":"Privacy Policy",
+        "tos":"Terms of Service"
+     },
+     "auth":{
+        "username":"Username",
+        "password":"Password",
+        "authenticate":"Authenticate",
+        "register":"Register",
+        "forgot_password":"I forgot my password"
+     },
+    "setup":{
+        "title":"Welcome to NekoType",
+        "description":"This is a messenger like you've never seen before. It's secure, fast and created by cats. Let's get started!",
+        "agree_policies":"By continuing, you agree to our Terms of Service and Privacy Policy"
+     }
+}
