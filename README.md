@@ -1,4 +1,6 @@
 # NekoType
+![Strings reviewed status](https://lang.sec.french-femboi.eu/21787e36-542f-4a8f-ae31-e90a13b87960/percentage_reviewed_badge.svg)
+
 A client for the backen of NekoType
 
 ## Built With
